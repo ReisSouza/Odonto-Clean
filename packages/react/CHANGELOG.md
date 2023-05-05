@@ -1,5 +1,17 @@
 # @odonto-clean/react
 
+## 0.0.2
+
+### Patch Changes
+
+- update initial
+
+## 0.0.1
+
+### Patch Changes
+
+- initial
+
 ## 4.7.0
 
 ### Minor Changes

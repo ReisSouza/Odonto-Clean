@@ -1,5 +1,17 @@
 # @odonto-clean/ts-config
 
+## 0.0.2
+
+### Patch Changes
+
+- update initial
+
+## 0.0.1
+
+### Patch Changes
+
+- initial
+
 ## 2.2.0
 
 ### Minor Changes
