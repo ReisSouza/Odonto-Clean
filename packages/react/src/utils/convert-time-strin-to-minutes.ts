@@ -3,5 +3,3 @@ export function convertTimeStringToMinutes(timeString: string) {
 
   return hours * 60 + minutes
 }
-
-// updated
