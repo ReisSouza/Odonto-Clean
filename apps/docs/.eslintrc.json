@@ -1,0 +1,3 @@
+{
+    "extends":"@odonto-clean/eslint-config"
+}

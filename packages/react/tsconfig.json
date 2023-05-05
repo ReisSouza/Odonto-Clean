@@ -1,0 +1,10 @@
+{
+  "extends":"@odonto-clean/ts-config/react.json",
+  "include": ["src"],
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+    "@/*": ["./src/*"]
+  }
+ }
+}
